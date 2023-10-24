@@ -1,0 +1,32 @@
+{
+    "nombre" : "Prueba1",
+    "apellido" : "apellido prueba",
+    "nivel" : "Diversificado",
+    "seccion" : "seccion"
+}
+
+{
+    "nombreCurso": "nombre curso",
+    "idGrado" : "4TO",
+    "idCarrera" : "Carrera",
+    "catedratico":[
+        {
+            "idCatedratico": "ogarcia",
+            "nombreCatedratico" :"Jorge Garcia"
+        }
+    ]
+    
+}
+
+
+// ACTUALIZAR
+{
+    "idEstudiante":20,
+    "nombre": "Nuevo Nombre"
+}
+
+
+// ELIMINR
+{
+    "idEstudiante":20
+}
